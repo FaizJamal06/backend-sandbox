@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Basic Structure of Criminal Offences",
+    "text": "Criminal offences typically consist of actus reus, the prohibited conduct or omission, and mens rea, the guilty mental state, plus causation linking the act to harm and lack of justifying defenses. Offences divide into strict liability types needing no mens rea, general intent crimes like battery requiring basic intent, and specific intent crimes like theft needing purpose. Classification as misdemeanors or felonies determines procedure, venue, and maximum penalties, with elements proven beyond reasonable doubt by prosecution.",
+    "url": "https://en.wikipedia.org/wiki/Crime#Elements"
+  },
+  {
+    "title": "Mens Rea and Actus Reus",
+    "text": "Actus reus demands a voluntary act, culpable omission where duty exists, or state of affairs like possession, sometimes with attendant circumstances. Mens rea levels include purpose, knowledge, recklessness (awareness of substantial risk), negligence (failure of reasonable care), or strict liability bypassing it entirely. Concurrence rule requires mental state align with the act, with transferred intent applying across victims in some cases.",
+    "url": "https://en.wikipedia.org/wiki/Mens_rea"
+  },
+  {
+    "title": "Defenses in Criminal Law (Self-Defense, Duress, Necessity)",
+    "text": "Self-defense permits reasonable force, including deadly if fearing death or serious injury, with duty to retreat varying by jurisdiction and castle doctrine exceptions. Duress negates voluntariness when imminent threat of death or grievous harm coerces, unavailable for murder in many places. Necessity justifies lesser evil choice when harm imminent, no legal alternative, defendant not created crisis, and good outweighs bad.",
+    "url": "https://en.wikipedia.org/wiki/Defense_(legal)"
+  },
+  {
+    "title": "Offer and Acceptance in Contract Law",
+    "text": "Offer manifests willingness to contract on stated terms, distinguishable from invitations to treat like advertisements, revocable until accepted unless option contract. Acceptance must match offer terms exactly (mirror image), communicated effectively via mail rule or instantaneous methods, forming consensus ad idem. Counter-offers reject and propose new terms, while queries clarify without rejecting.",
+    "url": "https://en.wikipedia.org/wiki/Offer_and_acceptance"
+  },
+  {
+    "title": "Breach of Contract and Remedies",
+    "text": "Breaches classify as material (substantial failure), minor (partial performance), anticipatory (repudiation before due), or renunciatory (total refusal). Expectation damages restore promised position, reliance covers expenditures, restitution disgorges benefits; equitable remedies like specific performance for land or unique goods when damages inadequate. Innocent party must mitigate losses reasonably to claim full amount.",
+    "url": "https://en.wikipedia.org/wiki/Breach_of_contract"
+  },
+  {
+    "title": "Duty of Care in Negligence",
+    "text": "Duty arises from foreseeability of harm to class of persons, relational proximity, and fair/just/reasonable policy factors per Caparo three-stage test. Donoghue v Stevenson neighbor principle asks if harm reasonably foreseeable to those closely affected. Special relationships like doctors trigger higher duties; no duty for pure economic loss absent assumption of responsibility.",
+    "url": "https://en.wikipedia.org/wiki/Duty_of_care"
+  },
+  {
+    "title": "Causation and Remoteness in Tort",
+    "text": "But-for test establishes factual causation; multiple sufficient causes apportion via material contribution. Legal causation breaks on novus actus interveniens unless foreseeable, with thin skull rule extending to victim's peculiarities. Remoteness limits to damage types reasonably foreseeable per Wagon Mound, manner not always required.",
+    "url": "https://en.wikipedia.org/wiki/Proximate_cause"
+  },
+  {
+    "title": "Ownership and Possession in Property Law",
+    "text": "Ownership vests bundle of rights: usus (use), fructus (fruits), abusus (alienation), enduring against world except superior title. Possession yields relative title via animus possidendi and corpus, good against wrongdoers, ripening to ownership via adverse possession statutes. Fixtures attach to land by degree of annexation and purpose tests.",
+    "url": "https://en.wikipedia.org/wiki/Property"
+  },
+  {
+    "title": "Judicial Review of Administrative Action",
+    "text": "Grounds include illegality (ultra vires, improper purpose), irrationality (Wednesbury unreasonable or proportionality), procedural impropriety (bias, no hearing), and legitimate expectation breaches. Standing requires sufficient interest; remedies quash decisions, prohibit actions, or declare rights. Human rights claims invoke proportionality scrutiny.",
+    "url": "https://en.wikipedia.org/wiki/Judicial_review_in_English_law"
+  },
+  {
+    "title": "Fundamental Rights and Limitations",
+    "text": "Rights like equality, liberty, fair trial bind governments, often constitutionally entrenched with limited amendment. Limitations clauses allow proportionate restrictions for public welfare, security, or rights of others, scrutinized via tiers: rational basis, intermediate, or strict. Derogations possible in emergencies, non-derogable cores persist.",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_rights"
+  },
+  {
+    "title": "Freedom of Expression Doctrine",
+    "text": "Core protections cover political speech highest, commercial lower; tests like strict scrutiny demand compelling interest and narrow tailoring. Prior restraints disfavored heavily; time/place/manner neutral regs ok if ample alternatives. Unprotected categories: incitement, obscenity, fighting words, true threats.",
+    "url": "https://en.wikipedia.org/wiki/Freedom_of_speech"
+  },
+  {
+    "title": "Search and Seizure Protections",
+    "text": "Fourth Amendment or equivalents require warrants on probable cause particularizing place/things, issued by neutral magistrate. Exceptions: search incident arrest, consent, plain view, exigent (destruction evidence/hot pursuit), automobile (mobility), administrative (regs). Fruits doctrine excludes unlawfully obtained evidence.",
+    "url": "https://en.wikipedia.org/wiki/Search_warrant"
+  },
+  {
+    "title": "Hearsay Rule Overview",
+    "text": "Hearsay excludes out-of-court assertions offered for truth due to perception/memory/sincerity cross-exam gaps. Non-hearsay: prior statements, effect on hearer, verbal acts. Exceptions: unavailability + reliability (former testimony, declarations against interest), availability immaterial (excited utterances, present sense, state of mind, business records).",
+    "url": "https://en.wikipedia.org/wiki/Hearsay"
+  },
+  {
+    "title": "Precedent and Stare Decisis",
+    "text": "Vertical stare decisis mandates lower courts follow higher appellate ratios decidendi, obiter persuasive. Horizontal binds same court levels unless overruled by larger panel or statute; overruling needs wrong/perverse/outdated. Distinguishing on material facts; prospective overruling softens impacts.",
+    "url": "https://en.wikipedia.org/wiki/Stare_decisis"
+  },
+  {
+    "title": "Burden and Standard of Proof in Civil Cases",
+    "text": "Plaintiff bears persuasive burden throughout on balance of probabilities (more likely than not, 51%). Evidential burden shifts temporarily to defendant on affirmative defenses like contributory negligence. Higher standards like clear/cogent for fraud or egregious conduct.",
+    "url": "https://en.wikipedia.org/wiki/Standard_of_proof"
+  },
+  {
+    "title": "Burden and Standard of Proof in Criminal Cases",
+    "text": "Crown bears legal/persuasive burden on every element beyond reasonable doubt, moral certainty excluding innocence hypotheses. Defendant's evidentiary burden on defenses like self-defense or alibi discharges if raises doubt. Reverse onus statutes constitutional only if proportionate.",
+    "url": "https://en.wikipedia.org/wiki/Burden_of_proof_(law)"
+  }
+]
